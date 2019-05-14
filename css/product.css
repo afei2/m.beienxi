@@ -1,0 +1,21 @@
+.product {
+    padding: 0 0.133rem;
+    background: #b2d1e9;
+}
+ .tab-tilte{
+    width: 34%;
+    background-color: #c2daeb;
+    box-shadow: 0rem 0rem 0.16rem 0rem 
+		rgba(0, 0, 0, 0.08);
+}
+.product .tab-tilte li {
+    line-height: 1.08rem;
+    text-align: center;
+    padding: 0 0.06rem;
+    border-bottom: 1px solid #b2d1e9;
+    font-size: 0.24rem;
+    color: #213e72;
+}
+.product .tab-content {
+    width: 66%;
+}
