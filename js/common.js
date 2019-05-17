@@ -5,8 +5,10 @@ $(".qxcp").click(function(){
     $(".qxcp div").stop().slideToggle()
 })
 
+//底部微信
 $(".wechat").click(function(event){
-    $(".wechatqr").stop().fadeToggle()
+    $(".wechatqr").stop().fadeToggle();
+    $(".weiboqr").stop().hide()
     $(document).one("click",function() { //对document绑定一个影藏Div方法
         $(".wechatqr").hide();
     })
@@ -17,9 +19,10 @@ $(".wechatqr").click(function(event) {
 });
 
 
-
+//底部微博
 $(".weibo").click(function(event){
-    $(".weiboqr").stop().fadeToggle()
+    $(".weiboqr").stop().fadeToggle();
+    $(".wechatqr").stop().hide();
     $(document).one("click",function() { //对document绑定一个影藏Div方法
         $(".weiboqr").hide();
     })
@@ -28,3 +31,23 @@ $(".weibo").click(function(event){
 $(".weiboqr").click(function(event) {
     event.stopPropagation(); //阻止事件向上冒泡
 });
+
+
+//弹窗
+// $(".tan b").click(function(event){
+//     $(".tanc").stop().show()
+//     $(document).one("click",function() { //对document绑定一个影藏Div方法
+//         $(".tanc").hide();
+//     })
+//         event.stopPropagation(); //阻止事件向上冒泡
+// });
+// $(".tanc").click(function(event) {
+//     event.stopPropagation(); //阻止事件向上冒泡
+// });
+
+$(".tan b").click(function(){
+    $(".tanc").show()
+});
+$(".close").click(function(){
+    $(".tanc").hide()
+})

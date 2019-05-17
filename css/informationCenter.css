@@ -1,0 +1,179 @@
+.column {
+    width: 95%;
+    margin: 0 auto;
+    position: absolute;
+    top: -0.8rem;
+    left: 2.5%;
+}
+.column ol li {
+    width: 33.3%;
+    background: #fff;
+    float: left;
+    text-align: center;
+}
+.column ol li h3 {
+    font-size: 0.35rem;
+    color: #333333;
+    padding-top: 0.21rem;
+}
+.column ol li p {
+    color: #afafaf;
+}
+.column ol li span {
+    text-transform: uppercase;
+    font-size: 0.16rem;
+    color: #999999;
+    padding-bottom: 0.23rem;
+    display: block;
+}
+.column ol li.active {
+    background-color: #213e72;
+    
+}
+.column ol li.active h3,.column ol li.active p,.column ol li.active span{
+    color: #fff
+}
+.main_1 {
+    position: relative;
+    background: url(../img/bg08.jpg)#b2d1e9 no-repeat;
+    padding: 0 0.133rem;
+    padding-top: 1.32rem;
+}
+.main_1 ul {
+    padding-bottom: 0.4rem;
+}
+.main_1 ul li {
+    width: 100%;
+    position: relative;
+    margin-bottom: 0.42rem;
+}
+.main_1 ul li img {
+    width: 100%;
+}
+.main_1 ul li div {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background:url(../img/bg18.png);
+}
+.main_1 ul li div h6 {
+    font-size: 0.32rem;
+    color: #ffffff;
+    padding: 0.28rem 0 0.2rem 0.27rem;
+}
+.main_1 ul li div span {
+    color: #f9f9f9;
+    display: block;
+    padding: 0 0 0.21rem 0.27rem;
+}
+.main_1 h5,.main_2 h5,.main_3 h5 {
+    width: 2.4rem;
+    margin: 0 auto;
+    padding-bottom: 0.6rem;
+}
+.main_1  h5 a i,.main_2  h5 a i,.main_3  h5 a i{
+    font-size: 0.32rem;
+    color: #dbefff;
+    padding-top: 0.21rem;
+    display: inline-block;
+    margin-left: 0.35rem;
+}
+.main_1  h5 img,.main_2 h5 img,.main_3 h5 img {
+    width: 0.733rem;
+}
+.main_2 {
+    position: relative;
+    background: url(../img/bg08.jpg)#b2d1e9 no-repeat;
+    padding: 0 0.133rem;
+    padding-top: 1.04rem;
+}
+.main_2 ul {
+    padding-bottom: 0.6rem;
+}
+.main_2 ul li {
+    padding: 0.28rem 0;
+    border-bottom: 1px dashed #cde4f6;
+}
+.main_2 ul li b{
+    width: 40%;
+	height: 1.6rem;
+    display: block;
+    overflow: hidden;
+    float: left;
+    margin-right: 0.267rem;
+}
+.main_2 ul li b img {
+    width: 100%;
+}
+.main_2 ul li div {
+    float: left;
+    width: 56%;
+}
+.main_2 ul li div h6 {
+    font-size: 0.32rem;
+    color: #213e72;
+}
+.main_2 ul li div span {
+    color: #f9f9f9;
+    margin: 0.15rem 0;
+}
+.main_2 ul li div i{
+    font-size: 0.29rem;
+    color: #f9f9f9;
+}
+.main_3 {
+    position: relative;
+    background: url(../img/bg08.jpg)#b2d1e9 no-repeat;
+    padding: 0 0.133rem;
+    padding-top: 1.32rem;
+}
+.detail {
+
+}
+.detail h3{
+    font-size: 0.36rem;
+    line-height: 0.5rem;
+    color: #213e72;
+    text-align: center;
+}
+.detail h6 {
+    font-size: 0.3rem;
+    color: #333333;
+    text-align: center;
+    padding: 0.2rem 0;
+}
+.detail span {
+    color: #333333;
+    line-height: 0.4rem;
+    text-indent: 0.4rem;
+    display: block;
+    padding-bottom: 0.65rem;
+}
+.detail b{
+    padding-bottom: 0.65rem;
+    display: block;
+}   
+.detail b img{
+    width: 100%;
+} 
+.paging {
+    background: #bdd9ed;
+    margin-bottom: 0.81rem;
+}
+.paging ul li {
+    padding: 0.26rem 0;
+}
+
+.paging ul li img {
+    width: 0.973rem;
+    float: left;
+    margin-right: 0.25rem;
+}
+.paging ul li i {
+    font-size: 0.26rem;
+    margin-top: 0.32rem;
+    display: block;
+    float: left;
+    color: #213e72;
+}

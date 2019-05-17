@@ -1,0 +1,329 @@
+.main_1 {
+    background: url(../img/bg08.jpg)no-repeat;
+}
+.main_1 h3 {
+    font-size: 0.6rem;
+    color: #ffffff;
+    text-align: center;
+    padding: 1.05rem 0 0.39rem 0;
+}
+.main_1 #distpicker  {
+    padding: 0 0.6rem;
+}
+.main_1 #distpicker p {
+    background: #fff;
+    margin-bottom: 0.267rem;
+    height: 0.96rem;
+    border-radius: 0.08rem;
+}
+.main_1 #distpicker p i {
+    font-size: 0.28rem;
+    margin-left:  0.2rem;
+    border-right: 1px solid #c8c8c8;
+    display: inline-block;
+    float: left;
+    margin-top: 0.33rem;
+}
+.main_1 #distpicker p select {
+    width: 86%;
+    height: 0.96rem;
+    border: none;
+}
+.main_1 #distpicker button {
+    height: 0.96rem;
+    background-color: #213e72;
+    border: none;
+    width: 100%;;
+    border-radius: 0.08rem;
+    font-size: 0.4rem;
+    color: #ffffff;
+}
+.shop {
+    padding: 0 0.6rem;
+    font-size: 0.29rem;
+    margin-top: 0.4rem;
+}
+.shop h6 {
+    float: left;
+    width: 15%;
+}
+.shop ul {
+    float: left;
+    width: 85%;
+}
+.shop ul li {
+    width: 50%;
+    float: left;
+    font-size: 0.24rem;
+    margin-bottom: 0.2rem;
+}
+.buylink {
+    padding: 0 0.6rem;
+    padding-bottom: 0.5rem;
+}
+.buylink h3{
+    font-size: 0.6rem;
+    color: #ffffff;
+}
+.buylink h3 img{
+    width: 0.587rem;
+    margin-right: 0.29rem;
+}
+.buylink ul li {
+    width: 48%;
+    margin-bottom: 0.2rem;
+}
+.buylink ul li img{
+    width: 100%;
+}
+.searchbox {
+    background: #bcd7ec;
+    padding: 0 0.133rem;
+}
+.search {
+	background-color: #c5ddef;
+}
+.search h6{
+	font-size: 0.37rem;
+	color: #0a3474;
+	text-align: center;
+	padding: 1.05rem 0 0.41rem 0;
+	font-weight: bold;
+}
+.search em {
+	display: block;
+	width: 5.9rem;
+	height: 0.67rem;
+	background-size:100%; 
+	margin: 0 auto;
+}
+.search em input {
+	width: 4.266667rem;
+	border: none;
+	height: 100%;
+	text-indent: 0.266667rem;
+	background: url(../img/bg06.png);
+	background-size:100%; 
+}
+.search em button {
+	width: 1.58rem;
+	height: 100%;
+	border: none;
+	background: url(../img/bg07.png);
+	background-size:100%; 
+	font-size: 0.21rem;
+	color: #0a3474;
+}
+.search h5 {
+	width: 3.9rem;
+	margin-top: 0.67rem;
+    float: left;
+    margin-left: 0.48rem;
+}
+.search h5 img {
+    width: 80%;;
+}
+.search  img {
+	width: 100%;
+}
+.search div {
+    padding-bottom: 0.3rem;
+}
+.search div span {
+	display: block;
+	float: right;
+    margin-top: 1.3rem;
+    margin-right: 0.64rem;
+}
+.search div span i {
+	width: 1.57rem;
+	display: block;
+	margin-bottom:0.25rem;
+}
+.search div span p {
+	font-size: 0.21rem;
+	color: #333333;
+	margin-bottom: 0.1rem;
+}
+.main_2 {
+    background: #b2d1e9;
+}
+.main_2 h3 {
+    font-size: 0.6rem;
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 0.37rem;
+    padding-top: 1.31rem;
+}
+.main_2 strong {
+    display: block;
+    width: 1.96rem;
+    margin: 0 auto;
+}
+.main_2 strong img {
+    width: 100%;
+}
+.main_2 h6 {
+    font-size: 0.33rem;
+    color: #ffffff;
+    text-align: center;
+}
+.main_2 ul {
+    background: url(../img/bg17.png)no-repeat #b2d1e9;;
+    margin: 0 0.133rem;
+    background-size:100%; 
+    padding-bottom: 0.57rem;
+    margin-top: 0.67rem;
+}
+.main_2 ul li {
+    width: 2rem;
+    text-align: center;
+    float: left;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.main_2 ul li  img {
+    width: 100%;
+}
+.main_2 ul li p {
+    font-size: 0.32rem;
+    margin-top: 0.19rem;
+    color: #ffffff;
+}
+.main_3 {
+    height: 9.333rem;
+    background: url(../img/bg08.jpg)no-repeat;
+    padding: 0 0.1rem;
+}
+.main_3 h3 {
+    font-size: 0.6rem;
+    color: #213e72;
+    text-align: center;
+    padding: 1.07rem 0 0.53rem 0;
+}
+.yunf {
+    width: 54%;
+    height: 2.89rem;
+    float: left;
+    background-color: #e8f5ff;
+	border-radius: 0.13rem;
+}
+.yunf img {
+    width: 2.7rem;
+    float: left;
+    margin-top: 0.25rem;
+    margin-left: -0.2rem;
+}
+.yunf div {
+    float: left;
+}
+.yunf div p {
+    font-size: 0.27rem;
+    color: #c93d69;
+    margin-top: 0.95rem;
+    line-height: 0.4rem;
+}
+.yunf div a {
+    display: block;
+    width: 1.33rem;
+	line-height: 0.37rem;
+	background-color: #ffffff;
+	border-radius: 0.18rem;
+    border: solid 0.01rem #c93d69;
+    font-size: 0.21rem;
+    color: #c93d69;
+    text-align: center;
+    margin-top: 0.28rem;
+}
+.baby {
+    width: 45%;
+    height: 2.89rem;
+    float: right;
+    background-color: #e8f5ff;
+	border-radius: 0.13rem;
+}
+.baby img {
+    width: 1.8rem;
+    float: left;
+    margin-top: 0.65rem;
+}
+.baby div {
+    float: left;
+}
+.baby div p {
+    font-size: 0.27rem;
+    color: #073b8b;
+    margin-top: 0.95rem;
+    line-height: 0.4rem;
+}
+.baby div a {
+    display: block;
+    width: 1.33rem;
+	line-height: 0.37rem;
+	background-color: #ffffff;
+	border-radius: 0.18rem;
+    border: solid 0.01rem #073b8b;
+    font-size: 0.21rem;
+    color: #073b8b;
+    text-align: center;
+    margin-top: 0.28rem;
+}
+.main_3 ul {
+    margin-top: 0.07rem;
+}
+.main_3 ul li {
+    width: 30.5%;
+	background-color: #e8f5ff;
+    border-radius: 0.13rem;
+    float: left;
+    margin-right: 0.07rem;
+}
+.main_3 ul li b {
+    width: 2.093rem;
+    height: 1.95rem;
+    margin: 0 auto;
+    display: block;
+    overflow: hidden;
+}
+.main_3 ul li img {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    padding-top: 0.4rem;
+}
+.main_3 ul li p{
+    font-size: 0.27rem;
+    color: #0072c6;
+    text-align: center;
+    margin-top: 0.24rem;
+    margin-bottom: 0.17rem;
+}
+.main_3 ul li a{
+    display: block;
+    width: 1.33rem;
+	line-height: 0.37rem;
+	background-color: #ffffff;
+	border-radius: 0.18rem;
+    border: solid 0.01rem #0072c6;
+    font-size: 0.21rem;
+    color: #0072c6;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 0.2rem;
+}
+.main_3 ul li:first-child {
+    width: 37%;
+}
+.main_3 ul li:last-child{
+    margin-right: 0;
+}
+.main_3 ul li:last-child p{
+    color: #c16b5a;
+}
+.main_3 ul li:last-child a {
+    border: solid 1px #c16b5a;color: #c16b5a;
+}
+.main_3 ul li:last-child img{
+    width: 70%;
+    
+}
