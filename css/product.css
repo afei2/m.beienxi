@@ -92,7 +92,18 @@
     display: block;
     margin-top: 0.56rem;
 }
-
+.swiper_p {
+    margin: 1.09rem 0;
+}
+.blue .swiper_p {
+    margin: 1.265rem 0;
+}
+.b_three .swiper_p {
+    margin: 0.97rem 0;
+}
+.pick .swiper_p {
+    margin: 0.97rem 0;
+}
 .swiper_p .swiper-slide{
     height: 4.05rem;
     background: url(../img/bg13.png)no-repeat center;
@@ -165,6 +176,7 @@
 }
 .product_2 img {
     width: 100%;
+    margin-top: -0.01rem;
 }
 .product_footer {
     background: #f7dbe7;

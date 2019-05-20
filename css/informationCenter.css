@@ -2,7 +2,7 @@
     width: 95%;
     margin: 0 auto;
     position: absolute;
-    top: -0.8rem;
+    top: -0.6rem;
     left: 2.5%;
 }
 .column ol li {
@@ -14,7 +14,7 @@
 .column ol li h3 {
     font-size: 0.35rem;
     color: #333333;
-    padding-top: 0.21rem;
+    line-height: 1.2rem;
 }
 .column ol li p {
     color: #afafaf;
@@ -37,7 +37,7 @@
     position: relative;
     background: url(../img/bg08.jpg)#b2d1e9 no-repeat;
     padding: 0 0.133rem;
-    padding-top: 1.32rem;
+    padding-top: 1rem;
 }
 .main_1 ul {
     padding-bottom: 0.4rem;
@@ -126,7 +126,8 @@
     position: relative;
     background: url(../img/bg08.jpg)#b2d1e9 no-repeat;
     padding: 0 0.133rem;
-    padding-top: 1.32rem;
+    padding-top: 1rem;
+    padding-bottom: 0.81rem;
 }
 .detail {
 
@@ -159,7 +160,6 @@
 } 
 .paging {
     background: #bdd9ed;
-    margin-bottom: 0.81rem;
 }
 .paging ul li {
     padding: 0.26rem 0;
